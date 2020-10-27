@@ -1,0 +1,1 @@
+let peremennaya = document.querySelector('#button');
