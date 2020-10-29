@@ -1,4 +1,4 @@
-let peremennaya = document.querySelector('#text');
+let peremennaya = document.querySelector('#button');
 peremennaya.onclick = function () {
 	alert('привет GIT !!!');
 }
